@@ -1,0 +1,2 @@
+module alpha_module {
+}
